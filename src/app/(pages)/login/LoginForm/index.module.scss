@@ -1,20 +1,27 @@
 @import "../../../_css/common";
 
 .form {
+  width: 100%;
+  gap: 24px;
   margin-bottom: var(--base);
   display: flex;
   flex-direction: column;
   gap: calc(var(--base) / 2);
   align-items: flex-start;
-  width: 66.66%;
+  // width: 66.66%;
+  margin-top: 25px;
 
-  @include mid-break {
-    width: 100%;
-  }
 }
 
 .submit {
   margin-top: calc(var(--base) / 2);
+  width: 100%;
+}
+.link{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .message {
