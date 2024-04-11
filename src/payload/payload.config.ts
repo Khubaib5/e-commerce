@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+/* eslint-disable prettier/prettier */
 import { webpackBundler } from '@payloadcms/bundler-webpack' // bundler-import
 import { mongooseAdapter } from '@payloadcms/db-mongodb' // database-adapter-import
 import { payloadCloud } from '@payloadcms/plugin-cloud'
