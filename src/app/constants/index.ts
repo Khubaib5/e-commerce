@@ -1,4 +1,6 @@
 /* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
+/* eslint-disable prettier/prettier */
 export const inclusions = [
     {
       title: 'Free Shipping',

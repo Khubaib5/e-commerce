@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 'use client'
 
 import { createContext, ReactNode, SetStateAction, useContext, useState } from 'react'

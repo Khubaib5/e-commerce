@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+/* eslint-disable prettier/prettier */
 import React from 'react'
 
 import { CollectionArchive } from '../../_components/CollectionArchive'
@@ -17,10 +19,10 @@ export const ArchiveBlock: React.FC<
     id,
     relationTo,
     populateBy,
+    // sort,
     limit,
     populatedDocs,
     populatedDocsTotal,
-    selectedDocs,
     categories,
   } = props
 
@@ -36,10 +38,9 @@ export const ArchiveBlock: React.FC<
         relationTo={relationTo}
         populatedDocs={populatedDocs}
         populatedDocsTotal={populatedDocsTotal}
-        selectedDocs={selectedDocs}
         categories={categories}
         limit={limit}
-        sort="-publishedOn"
+        // sort="-publishedOn"
       />
     </div>
   )

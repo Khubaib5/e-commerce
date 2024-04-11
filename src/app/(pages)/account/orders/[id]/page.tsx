@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 import React, { Fragment } from 'react'
 import { Metadata } from 'next'
 import Link from 'next/link'

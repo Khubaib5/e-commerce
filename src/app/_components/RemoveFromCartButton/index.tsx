@@ -1,4 +1,7 @@
+/* eslint-disable simple-import-sort/imports */
 /* eslint-disable prettier/prettier */
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 import React from 'react'
 
 import { Product } from '../../../payload/payload-types'

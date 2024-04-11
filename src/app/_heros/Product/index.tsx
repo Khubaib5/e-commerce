@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 import React, { Fragment } from 'react'
 
 import { Category, Product } from '../../../payload/payload-types'

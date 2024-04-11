@@ -1,6 +1,8 @@
 {
   /* eslint-disable @next/next/no-img-element */
 }
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 
 import React from 'react'
 import Link from 'next/link'

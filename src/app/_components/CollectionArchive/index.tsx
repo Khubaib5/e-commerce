@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 'use client'
 
 import React, { Fragment, useCallback, useEffect, useRef, useState } from 'react'

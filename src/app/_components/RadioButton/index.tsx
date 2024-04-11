@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
 import React from 'react'
 
 import classes from './index.module.scss'

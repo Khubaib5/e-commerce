@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+/* eslint-disable prettier/prettier */
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'

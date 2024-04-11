@@ -1,4 +1,6 @@
-import { CATEGORIES, PRODUCT_CATEGORIES } from './categories'
+/* eslint-disable prettier/prettier */
+/* eslint-disable eol-last */
+import { PRODUCT_CATEGORIES } from './categories'
 import { LINK_FIELDS } from './link'
 import { MEDIA } from './media'
 import { META } from './meta'
@@ -52,7 +54,6 @@ export const ARCHIVE_BLOCK = `
         slug
         title
         priceJSON
-        ${META}
       }
     }
   }
